@@ -1,11 +1,7 @@
-package jenkins;
 
-//Java program to Swap
-//Two variables
 
-//Driver Class
 public class Swapping {
-	// main function
+
 	public static void main(String[] args)
 	{
 		int x = 100, y = 200;
@@ -14,8 +10,7 @@ public class Swapping {
 		System.out.println("x = " + x);
 		System.out.println("y = " + y);
 
-		// Swapping using three
-		// Variables
+	
 		int temp = x;
 		x = y;
 		y = temp;
